@@ -35,5 +35,6 @@ Reshape2 library is used to summarize the data. The second independent data fram
 - README.txt
 - run_analysis.R
 - code_book.md
+
 ==================================================================
 
